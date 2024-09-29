@@ -32,6 +32,8 @@ Python 3.11 環境
   <img src="/python0808/MapData-output.png" alt="DEMO 1-1" style="width: 30%;">
 </div>
 
+> 指定格式: 輸出到output，一份html，一份csv
+
 
 ## 更新資訊
 
@@ -47,3 +49,5 @@ Python 3.11 環境
 <div style="display: flex; gap: 20px;">
   <img src="/python0808/algorithm-test.png" alt="DEMO 2-1" style="width: 60%;">
 </div>
+
+> 原先要為路徑規劃設計最短路徑，因時間不足僅做模擬路徑&主畫面終端機顯示結果

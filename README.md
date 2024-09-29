@@ -32,7 +32,6 @@ Python 3.11 環境
   <img src="/python0808/MapData-output.png" alt="DEMO 1-1" style="width: 30%;">
 </div>
 
-> 可支援基本輸入輸出，目前僅用於JDK內建方法 & 計算不得超過10秒 
 
 ## 更新資訊
 
@@ -40,4 +39,8 @@ Python 3.11 環境
   <img src="/python0808/update-location.png" alt="DEMO 2-1" style="width: 60%;">
 </div>
 
-> 生成方塊採用InterFrame，隨內容自動縮放待實作
+## 演算法效能測試
+
+<div style="display: flex; gap: 20px;">
+  <img src="/python0808/algorithm-test.png" alt="DEMO 2-1" style="width: 60%;">
+</div>

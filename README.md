@@ -3,7 +3,7 @@
 用 Python customtkinter  模擬 Windows XP 桌面的小型專案!
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="/main-window.png" alt="GitHub 簡介" style="width: 90%;">
+  <img src="/python0808/main-window.png" alt="GitHub 簡介" style="width: 90%;">
 </div>
 
 > 2024/09/29 bata 1.0 edit

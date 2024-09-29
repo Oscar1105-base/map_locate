@@ -1,4 +1,4 @@
-**# Python OpenStreet 超商&餐廳查詢系統 + 路徑演算法獨立測試
+### Python OpenStreet 超商&餐廳查詢系統 + 路徑演算法獨立測試
 
 用 Python customtkinter  模擬 Windows XP 桌面的小型專案!
 

@@ -12,7 +12,7 @@
 
 Python 3.11 環境
 
-### 主要功能
+## 主要功能
 
 這專案中包含以下功能：
 
@@ -23,9 +23,9 @@ Python 3.11 環境
 
 ---
 
-## DEMO 展示
+# DEMO 展示
 
-### 繪製地圖
+## 繪製地圖
 
 <div style="display: flex; gap: 20px;">
   <img src="/python0808/MapView-output.png" alt="DEMO 1" style="width: 30%;">
@@ -34,7 +34,7 @@ Python 3.11 環境
 
 > 可支援基本輸入輸出，目前僅用於JDK內建方法 & 計算不得超過10秒 
 
-### 更新資訊
+## 更新資訊
 
 <div style="display: flex; gap: 20px;">
   <img src="/python0808/update-location.png" alt="DEMO 2-1" style="width: 60%;">

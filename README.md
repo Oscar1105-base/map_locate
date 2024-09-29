@@ -39,6 +39,9 @@ Python 3.11 環境
   <img src="/python0808/update-location.png" alt="DEMO 2-1" style="width: 60%;">
 </div>
 
+> 指定格式: 店家資訊/緯度/經度
+
+
 ## 演算法效能測試
 
 <div style="display: flex; gap: 20px;">

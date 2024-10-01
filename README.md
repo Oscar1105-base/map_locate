@@ -1,6 +1,6 @@
 # Python OpenStreet 超商&餐廳查詢系統 + 路徑演算法獨立測試
 
-用 Python customtkinter  模擬 Windows XP 桌面的小型專案!
+## 用 Python customtkinter  模擬 Windows XP 桌面的小型專案!
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <img src="/python0808/main-window.png" alt="GitHub 簡介" style="width: 80%;">

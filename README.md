@@ -3,7 +3,7 @@
 用 Python customtkinter  模擬 Windows XP 桌面的小型專案!
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="/python0808/main-window.png" alt="GitHub 簡介" style="width: 90%;">
+  <img src="/python0808/main-window.png" alt="GitHub 簡介" style="width: 80%;">
 </div>
 
 > 2024/09/29 bata 1.0 edit
@@ -28,8 +28,8 @@ Python 3.11 環境
 ## 繪製地圖
 
 <div style="display: flex; gap: 20px;">
-  <img src="/python0808/MapView-output.png" alt="DEMO 1" style="width: 45%;">
-  <img src="/python0808/MapData-output.png" alt="DEMO 1-1" style="width: 45%;">
+  <img src="/python0808/MapView-output.png" alt="DEMO 1" style="width: 40%;">
+  <img src="/python0808/MapData-output.png" alt="DEMO 1-1" style="width: 40%;">
 </div>
 
 > 指定格式: 輸出到output，一份html，一份csv
@@ -38,7 +38,7 @@ Python 3.11 環境
 ## 更新資訊
 
 <div style="display: flex; gap: 20px;">
-  <img src="/python0808/update-location.png" alt="DEMO 2-1" style="width: 90%;">
+  <img src="/python0808/update-location.png" alt="DEMO 2-1" style="width: 80%;">
 </div>
 
 > 指定格式: 店家資訊 / 緯度/ 經度
